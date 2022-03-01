@@ -1,0 +1,8 @@
+geemap
+ipygee
+geopandas
+js2py
+folium
+rasterio
+tslearn
+earthengine-api
